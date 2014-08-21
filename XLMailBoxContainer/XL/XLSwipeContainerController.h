@@ -82,4 +82,9 @@
  */
 @property (nonatomic) CGFloat segmentedControlMinimalWidth;
 
+/**
+ The segmented control in the UINavigationItem's title view
+ */
+@property (nonatomic) UISegmentedControl * segmentedControl;
+
 @end

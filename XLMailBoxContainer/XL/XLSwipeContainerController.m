@@ -31,7 +31,6 @@
 @interface XLSwipeContainerController ()
 
 @property NSUInteger currentIndex;
-@property (nonatomic) UISegmentedControl * segmentedControl;
 
 @end
 
